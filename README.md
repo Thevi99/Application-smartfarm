@@ -14,7 +14,7 @@ IoT Hardware: ESP8266/ESP32, Arduino
 Sensors: DHT22 (Temperature/Humidity), Soil Moisture Sensors, Light Sensors
 Communication: MQTT Protocol, WebSockets
 
-###Hardware Setup
+### Hardware Setup
    - Upload the Arduino code from the `/arduino` directory to your ESP module
    - Connect sensors according to the wiring diagram provided in the `/docs` folder
    - Configure the WiFi and MQTT settings in the Arduino code
