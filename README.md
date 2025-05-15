@@ -6,9 +6,9 @@
   - Expo for simplified development workflow
   - Redux for state management
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **IoT Hardware**: ESP8266/ESP32, Arduino
-- **Sensors**: DHT22 (Temperature/Humidity), Soil Moisture Sensors, Light Sensors
+- **Database**: Firesbase
+- **IoT Hardware**: Heltec ESP32 LoRa V2 433hz, ESP32, Arduino
+- **Sensors**: Gravity: Analog Dissolved Oxygen, PH Sensor E-201-C
 - **Communication**: MQTT Protocol, WebSockets
 
 ### Hardware Setup
