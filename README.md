@@ -1,18 +1,15 @@
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-Mobile Application: React Native
-
-Cross-platform mobile framework
-Native UI components
-Expo for simplified development workflow
-Redux for state management
-
-
-Backend: Node.js, Express
-Database: MongoDB
-IoT Hardware: ESP8266/ESP32, Arduino
-Sensors: DHT22 (Temperature/Humidity), Soil Moisture Sensors, Light Sensors
-Communication: MQTT Protocol, WebSockets
+- **Mobile Application**: React Native
+  - Cross-platform mobile framework
+  - Native UI components
+  - Expo for simplified development workflow
+  - Redux for state management
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **IoT Hardware**: ESP8266/ESP32, Arduino
+- **Sensors**: DHT22 (Temperature/Humidity), Soil Moisture Sensors, Light Sensors
+- **Communication**: MQTT Protocol, WebSockets
 
 ### Hardware Setup
    - Upload the Arduino code from the `/arduino` directory to your ESP module
